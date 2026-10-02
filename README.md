@@ -8,7 +8,7 @@ Literary researcher and interdisciplinary practitioner working across modern Per
 
 - [The Black Bird](https://poem.theblackbirdfield.com/) — a hypergraph research poem in which a black bird appears beside a body and every source, name, object and relation receives an address. ([source](https://github.com/mozareeduge/the-black-bird))
 - [Grave-Machine](https://theblackbirdfield.com/works/grave-machine/run/) — a bilingual generative e-poem that carries material from the play Grave into the Taroko Gorge remix lineage. ([source](https://github.com/mozareeduge/grave-machine))
-- [TAROKE REMIXER](https://mozareeduge.github.io/taroke-remixer/) — a browser-native workbench that makes the composition of generative literature visible, editable and testable. ([source](https://github.com/mozareeduge/taroke-remixer))
+- [TAROKO REMIXER](https://taroke-remixer.theblackbirdfield.com/) — a browser-native workbench that makes the composition of generative literature visible, editable and testable. ([source](https://github.com/mozareeduge/taroko-remixer))
 - [Winter Road](https://mozareeduge.github.io/winter-road/) — a digital haiga space in which nine English haiku are found through movement and held only for a time. ([source](https://github.com/mozareeduge/winter-road))
 - [UNHAPPY Scenario](https://unhappy.theblackbirdfield.com/) — an internet blackout poem made from the calm procedural language of system failure. ([source](https://github.com/mozareeduge/UNHAPPY-scenario))
 - [Hamlet Pop-Upper](https://hamlet-popupper.theblackbirdfield.com/) — a browser-native miniature adaptation that composes Hamlet's question through popup recurrence and a fixed score of deaths. ([source](https://github.com/mozareeduge/HAMLET-POP-UPPER))
